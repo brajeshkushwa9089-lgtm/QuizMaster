@@ -10,7 +10,7 @@ body {
     font-family: Arial, sans-serif;
     background: #f4f6f8;
     color: #222;
-    overflow-x: hidden;
+    overflow-x: auto;
 }
 
 header {
@@ -199,3 +199,4 @@ td {
         padding: 8px 6px;
     }
 }
+    
